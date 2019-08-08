@@ -1,6 +1,93 @@
-,Symbol,Name,Sector,Current,1 Year,1 Year Change Percent
-0,DDD,3D Systems Corporation,Technology,8.14,13.57,-66.70761670761671
-1,MMM,3M Company,Health Care,163.065,202.6294,-24.2629626222672
-2,WBAI,500.com Limited,Consumer Services,10.585,13.32,-25.838450637694844
-3,WUBA,58.com Inc.,Technology,51.14,67.51,-32.01016816581933
-4,EGHT,8x8 Inc,Technology,24.035,21.8,9.298939047222797
+Symbol,Name,LastSale,Start of Year Sale,YTD Change Percent,Sector
+A,"Agilent Technologies, Inc.",65.86,67.3224,-2.2204676586699095,Capital Goods
+AA,Alcoa Corporation,20.15,26.58,-31.910669975186106,Basic Industries
+AAC,"AAC Holdings, Inc.",0.75,1.4,-86.66666666666666,Health Care
+AAN,"Aaron&#39;s,  Inc.",61.56,42.0215,31.738953866146847,Technology
+AAP,Advance Auto Parts Inc,143.16,157.4024,-9.948588991338365,Consumer Services
+AAT,"American Assets Trust, Inc.",45.58,39.6779,12.948881088196574,Consumer Services
+AB,AllianceBernstein Holding L.P.,27.03,26.3019,2.693673695893456,Finance
+ABB,ABB Ltd,18.05,18.2678,-1.2066481994459857,Consumer Durables
+ABBV,AbbVie Inc.,65.23,89.8813,-37.791353671623476,Health Care
+ABEV,Ambev S.A.,5.09,3.92,22.98624754420432,Consumer Non-Durables
+ABM,ABM Industries Incorporated,39.5,31.7762,19.55392405063291,Finance
+ABT,Abbott Laboratories,83.16,71.7027,13.777417027417032,Health Care
+ACC,American Campus Communities Inc,46.0,40.5584,11.829565217391307,Consumer Services
+ACCO,Acco Brands Corporation,9.54,6.6836,29.941299790356386,Consumer Durables
+ACH,Aluminum Corporation of China Limited,7.31,7.82,-6.976744186046521,Basic Industries
+ACM,AECOM,33.44,26.5,20.753588516746408,Consumer Services
+ACN,Accenture plc,185.55,139.8516,24.628617623282146,Miscellaneous
+ADC,Agree Realty Corporation,67.29,58.6511,12.838311784812017,Consumer Services
+ADNT,Adient plc,19.3,15.06,21.968911917098445,Capital Goods
+ADS,Alliance Data Systems Corporation,152.13,148.9069,2.11864852428843,Miscellaneous
+ADSW,"Advanced Disposal Services, Inc.",32.41,23.94,26.133909287257005,Public Utilities
+ADT,ADT Inc.,5.61,5.9432,-5.939393939393934,Consumer Services
+AEB,Aegon NV,23.75,18.84,20.673684210526318,Finance
+AEE,Ameren Corporation,75.05,64.3976,14.193737508327784,Public Utilities
+AEG,Aegon NV,4.37,4.4874,-2.686498855835239,Finance
+AEH,Aegon NV,26.12,25.16,3.6753445635528363,Finance
+AEL,American Equity Investment Life Holding Company,22.3,27.94,-25.291479820627806,Finance
+AEM,Agnico Eagle Mines Limited,56.24,40.1592,28.593172119487914,Basic Industries
+AEO,"American Eagle Outfitters, Inc.",15.85,19.2095,-21.195583596214504,Consumer Services
+AEP,"American Electric Power Company, Inc.",88.02,73.5148,16.479436491706434,Public Utilities
+AER,Aercap Holdings N.V.,51.75,39.6,23.478260869565215,Technology
+AFG,"American Financial Group, Inc.",97.88,88.4304,9.654270535349397,Finance
+AFL,Aflac Incorporated,51.36,45.0759,12.235397196261687,Finance
+AGCO,AGCO Corporation,69.87,55.4151,20.68827823100043,Capital Goods
+AGI,Alamos Gold Inc.,7.64,3.5932,52.96858638743455,Basic Industries
+AGN,Allergan plc.,160.63,132.2532,17.66594035983316,Health Care
+AGRO,Adecoagro S.A.,6.68,6.96,-4.19161676646707,Consumer Non-Durables
+AHC,A.H. Belo Corporation,3.45,3.2389,6.118840579710146,Consumer Services
+AIG,"American International Group, Inc.",52.81,39.122,25.91933345957205,Finance
+AIN,Albany International Corporation,81.47,62.1178,23.753774395482996,Basic Industries
+AIR,AAR Corp.,39.46,37.1819,5.773188038520026,Capital Goods
+AJRD,"Aerojet Rocketdyne Holdings, Inc. ",48.32,35.23,27.09023178807948,Capital Goods
+AKR,Acadia Realty Trust,26.97,23.5181,12.799035965888017,Consumer Services
+AKS,AK Steel Holding Corporation,2.68,2.25,16.04477611940299,Basic Industries
+AL,Air Lease Corporation,38.36,29.9874,21.82638164754953,Technology
+ALB,Albemarle Corporation,65.41,76.7415,-17.323803699740107,Basic Industries
+ALE,"Allete, Inc.",85.0,75.1043,11.642000000000007,Public Utilities
+ALEX,"Alexander & Baldwin, Inc.",22.91,18.1353,20.841117415975553,Consumer Services
+ALG,"Alamo Group, Inc.",107.33,77.1139,28.15252026460449,Capital Goods
+ALK,"Alaska Air Group, Inc.",61.52,60.1905,2.161085825747729,Transportation
+ALL,Allstate Corporation (The),101.78,81.7638,19.666142660640595,Finance
+ALLE,Allegion plc,99.68,79.4699,20.27497993579455,Consumer Services
+ALLY,Ally Financial Inc.,30.76,22.3884,27.215864759427827,Finance
+ALSN,"Allison Transmission Holdings, Inc.",43.79,43.6312,0.3626398721169203,Capital Goods
+ALX,"Alexander&#39;s, Inc.",354.35,296.9234,16.206180330182026,Consumer Services
+AMC,"AMC Entertainment Holdings, Inc.",11.1,11.8956,-7.167567567567571,Consumer Services
+AMG,"Affiliated Managers Group, Inc.",78.99,96.806,-22.554753766299537,Finance
+AMH,American Homes 4 Rent,23.99,19.8062,17.43976656940391,Consumer Services
+AMOV,"America Movil, S.A.B. de C.V.",13.04,14.054,-7.776073619631911,Public Utilities
+AMRC,"Ameresco, Inc.",13.46,14.1,-4.7548291233283715,Basic Industries
+AMX,"America Movil, S.A.B. de C.V.",13.32,14.25,-6.98198198198198,Public Utilities
+ANF,Abercrombie & Fitch Company,16.81,19.6514,-16.903033908387865,Consumer Services
+AOS,A.O Smith Corporation,43.65,42.3365,3.009163802978231,Consumer Durables
+APD,"Air Products and Chemicals, Inc.",220.06,159.0737,27.713487230755245,Basic Industries
+AQN,Algonquin Power & Utilities Corp.,12.61,9.9368,21.199048374306102,Public Utilities
+ARA,"American Renal Associates Holdings, Inc",6.99,11.52,-64.80686695278969,Health Care
+ARE,"Alexandria Real Estate Equities, Inc.",142.67,114.4579,19.774374430503958,Consumer Services
+ARL,"American Realty Investors, Inc.",14.97,12.07,19.372077488309955,Finance
+ASIX,AdvanSix Inc.,23.23,24.34,-4.778303917348254,Basic Industries
+ATEN,"A10 Networks, Inc.",7.09,6.24,11.98871650211565,Technology
+ATGE,Adtalem Global Education Inc.,44.42,47.32,-6.528590724898691,Consumer Services
+ATI,Allegheny Technologies Incorporated,19.58,21.77,-11.184882533197147,Basic Industries
+ATU,Actuant Corporation,20.89,20.99,-0.4786979415988409,Technology
+ATUS,"Altice USA, Inc.",26.23,16.52,37.018680899733134,Consumer Services
+ATV,"Acorn International, Inc.",17.838,20.931,-17.339387823747053,Consumer Services
+AXL,"American Axle & Manufacturing Holdings, Inc.",8.55,11.1,-29.82456140350876,Capital Goods
+AXP,American Express Company,120.72,94.5967,21.639579191517562,Finance
+AYI,"Acuity Brands, Inc. ",127.56,114.7193,10.06640012543117,Consumer Durables
+AYR,Aircastle Limited,19.5,16.74,14.15384615384616,Technology
+AYX,"Alteryx, Inc.",125.65,59.47,52.67011539992041,Technology
+BABA,Alibaba Group Holding Limited,153.67,137.07,10.802368712175438,Miscellaneous
+DDD,3D Systems Corporation,8.24,10.17,-23.422330097087375,Technology
+EGHT,8x8 Inc,23.32,18.04,22.641509433962266,Technology
+GOLF,Acushnet Holdings Corp.,24.72,20.8282,15.743527508090615,Consumer Non-Durables
+HIVE,"Aerohive Networks, Inc.",4.45,3.26,26.741573033707873,Technology
+MMM,3M Company,164.71,187.6263,-13.913120029142116,Health Care
+MO,Altria Group,46.65,48.696,-4.385852090032153,Consumer Non-Durables
+NFJ,"AllianzGI NFJ Dividend, Interest & Premium Strategy Fund",12.05,10.4806,13.024066390041492,Finance
+WBAI,500.com Limited,9.88,7.58,23.279352226720654,Consumer Services
+WMS,"Advanced Drainage Systems, Inc.",33.31,23.2791,30.113779645752032,Capital Goods
+WUBA,58.com Inc.,51.33,54.21,-5.610753945061372,Technology
+Y,Alleghany Corporation,675.02,623.32,7.6590323249681385,Finance
