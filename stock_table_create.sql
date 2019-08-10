@@ -6,3 +6,8 @@ CREATE TABLE stock_prices (
 	ytd_per FLOAT NOT NULL,
 	sector VARCHAR NOT NULL
 );
+
+SELECT esp.sector, AVG(esp.ytd_percent) AS ytd
+FROM etl_stock_price as esp
+GROUP BY esp.sector
+ORDER BY ytd DESC
